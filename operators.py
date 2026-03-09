@@ -15,3 +15,13 @@ print (i)
 'operator precedence'
 result = 2 + 3 *5
 print (result)
+
+'Comparison operators'
+
+print(3!=3)
+
+'Logical operator'
+
+print(3>4 or 4 < 2)
+
+print(not 2<3)
