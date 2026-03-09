@@ -1,12 +1,13 @@
-''''program for adding two numbers'
+''''program for adding two numbers'''
 first = input("enter first number:")
 second = input ("enter second number:")
 sum = int(first) + int(second) 
 print (sum) 
- iska abhi concatination hua hai kyunki we didnt do its type conversion 
-type conversion ke liye bas int add krdenge or dono values ke saath alag alag int use krna hoga 
-
 '''
+ iska abhi concatination hua hai kyunki we didnt do its type conversion 
+type conversion ke liye bas int add krdenge or dono values ke saath alag alag int use krna hoga '''
+
+
 
 'Strings'
 name = "Tony Stark"

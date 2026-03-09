@@ -8,7 +8,7 @@ age2 = 16
 is_adult = False
 print(name2)
 print(age2) 
-variables like int float boolean is used 
+'''ariables like int float boolean is used'''
 
 ''' these are the input value that how can we ask for input values '''
 name = input ("What is your name ?")
