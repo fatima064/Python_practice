@@ -1,3 +1,4 @@
+#raw codes 
 print(6+3)
 print(34-30)
 a = input("enter number one:")
